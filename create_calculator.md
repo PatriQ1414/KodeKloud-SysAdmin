@@ -73,6 +73,10 @@ then
 
 break
 
+else
+
+echo "Invalid input. Kindly enter a seletion from 1 - 5."
+
 fi
 
 done
